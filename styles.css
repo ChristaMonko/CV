@@ -1,0 +1,20 @@
+/* This is how you leave comments in CSS */
+Body
+{background-color: #f4f9f4;}
+
+hr
+  {border-style: none;
+  border-width: 5px;
+  border-top-style: dotted;
+  border-color: #8aae92;
+  width: 15%;}
+h1
+{color: #8aae92;
+}
+
+h3
+{color: #8aae92;}
+/*************class selector*************/
+.circular {
+  border-radius: 100%;
+}
